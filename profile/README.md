@@ -26,7 +26,7 @@
     ┌────────────────────────────────────────┐
     │ OPERATOR: ANONKRYPTIQUZ                │
     │ ├─[ID] : <a href="https://github.com/AnonKryptiQuz">github/AnonKryptiQuz</a>          │
-    │ ├─[ROLE]: Exploit Developer            │
+    │ ├─[ROLE]: Troll                        │
     │ └─[ACCESS]: ADMIN                      │
     └────────────────────────────────────────┘
     
